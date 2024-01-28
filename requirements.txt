@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+datetime
+chart_studio
+plotly
+colorlover
+scipy
+kaleido
+scikit-learn
+statsmodels
